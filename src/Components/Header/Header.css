@@ -1,0 +1,8 @@
+.active {
+    border-bottom-width: 2px;
+}
+
+.active span {
+    color: #3B368E;
+    font-weight: bold;
+}
