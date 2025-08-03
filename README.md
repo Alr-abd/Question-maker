@@ -11,6 +11,8 @@ A simple React-based project for creating and managing questions.
 - React
 - JavaScript
 - CSS / Tailwind
+- Redux
+
 
 ## Getting Started
 
