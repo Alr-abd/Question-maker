@@ -10,8 +10,7 @@ A simple React-based project for creating and managing questions.
 ## Technologies Used
 - React
 - JavaScript
-- CSS / Tailwind *(if applicable)*
-- [Any other libraries like MUI, Redux, etc.]
+- CSS / Tailwind
 
 ## Getting Started
 
