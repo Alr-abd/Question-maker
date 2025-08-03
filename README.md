@@ -1,8 +1,24 @@
-# React + Vite
+# Question Maker ❓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based project for creating and managing questions.
 
-Currently, two official plugins are available:
+## Features
+- Add new questions
+- Edit and delete existing questions
+- Dynamically display a list of questions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- JavaScript
+- CSS / Tailwind *(if applicable)*
+- [Any other libraries like MUI, Redux, etc.]
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Alr-abd/question-maker.git
+cd question-maker
+npm install
+npm start
